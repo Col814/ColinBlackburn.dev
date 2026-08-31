@@ -27,6 +27,15 @@ header {
     text-align: center;
     padding: 80px 20px;
     background-color: #2565eb;
+    background: linear-gradient(45deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet);                           
+    
 }
 
 header h1 {
