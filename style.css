@@ -74,6 +74,11 @@ h2 {
    width:250px;
    height:auto;
 }
+.certificate-container {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 30px;
+}
 /* ---------- Skills ---------- */
 
 ul {
